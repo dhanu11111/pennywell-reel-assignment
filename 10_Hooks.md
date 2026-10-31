@@ -1,17 +1,24 @@
 # 10 opening hooks (first 3 seconds)
 
-1. “New Diwali outfit? Check your budget first.” **TOP 3**
-2. “Your festive look shouldn't come with a financial hangover.” **TOP 3**
-3. “Before you tap ‘Buy now’, try this 10-second money check.” **TOP 3**
-4. “The outfit is trending. Is the price right for you?”
-5. “One festive purchase can quietly break your monthly plan.”
-6. “Can you create a new festive look without buying a new outfit?”
-7. “A discount is not a saving if you didn't plan the purchase.”
-8. “Three checks before you shop this festive season.”
-9. “Don't let a countdown timer decide how you spend.”
-10. “Enjoy Diwali shopping without carrying the bill into next month.”
+1. "What would you do if an unexpected expense came tomorrow?" **TOP 3**
+2. "Your emergency fund is still incomplete. Let's fix that." **TOP 3**
+3. "Complete it? Start with one week of essential expenses." **TOP 3**
+4. "A small emergency shouldn't become a big financial problem."
+5. "Your future self will thank you for starting today."
+6. "One unexpected bill can disturb your monthly budget."
+7. "Saving money feels difficult? Start small."
+8. "Don't wait for an emergency to start saving."
+9. "Can you save a little every week?"
+10. "Build your safety net, one small step at a time."
 
-## Why the top 3
-- Hook 1 is direct and instantly links the trend to a useful money action.
-- Hook 2 is memorable and emotionally relatable without being judgmental.
-- Hook 3 creates curiosity and promises a quick, practical action.
+## Selected hook
+
+"Your emergency fund is still incomplete. Let's fix that."
+
+## Creative direction
+
+Use a half-heart visual that gradually becomes complete, with the text "Complete it?" The visual represents building an emergency fund step by step.
+
+## Core message
+
+Start by saving an amount equal to one week of essential expenses. Build your emergency fund gradually according to your income and needs.
