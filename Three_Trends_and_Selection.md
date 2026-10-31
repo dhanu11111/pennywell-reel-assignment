@@ -1,42 +1,58 @@
-# Trend research — India (last 7 days reported 29 October 2026)
+# Trend Research – Instagram Reels (India)
 
-Audience: young working adults aged 22–35 who are new to managing money.
-Research window: the trend tracker reports views over the latest 7 days and was updated 29 October 2026. Figures below are the tracker’s reported social-view counts, not independently audited platform analytics.
+**Research date:** 30 October 2026  
+**Audience:** Young working adults aged 22–35  
+**Brand:** Pennywell – Personal Finance
 
-## Three trends
+## Three trends and creative opportunities
 
-1. **Diwali outfit ideas — 249 million social views (India, latest 7 days).**
-   - Evidence: Convosight India Moments page, updated 29 Oct 2026, ranks Diwali outfits among the biggest current moments and describes creators sharing saree, kurta, lehenga and festive co-ord looks.
-   - Money angle: festive outfit pressure, impulse buying, outfit budgeting, re-wearing and comparing total purchase costs.
-   - Link: https://www.convosight.com/tools/moments/india
+### 1. Small Text Zoom
 
-2. **India vs New Zealand T20 series — 187 million social views (India, latest 7 days).**
-   - Evidence: same tracker reports fan reactions around the India–New Zealand T20 matches on 22 and 24 October 2026.
-   - Money angle: match-night spending on food delivery, subscriptions and group outings; plan a fixed entertainment budget.
-   - Link: https://www.convosight.com/tools/moments/india
+**Format:** Small text appears on screen and becomes the focus through a zoom or reveal.
 
-3. **Diwali sweets — 90.4 million social views (India, latest 7 days).**
-   - Evidence: same tracker reports creators sharing festive sweets, homemade treats and snack ideas.
-   - Money angle: compare homemade vs store-bought costs, plan gifting quantities and avoid last-minute overspending.
-   - Link: https://www.convosight.com/tools/moments/india
+**Pennywell application:** Reveal the message "Complete it?" and gradually show a half-completed heart becoming complete.
 
-## Selection score (1–5; higher is better; for risk, higher means safer/lower risk)
+**Money connection:** Building an emergency fund one small step at a time.
 
-| Trend | Relevance | Freshness | Brand fit | Safety | Total /20 |
-|---|---:|---:|---:|---:|---:|
-| Diwali outfit ideas | 5 | 5 | 5 | 5 | 20 |
-| India vs New Zealand T20 | 4 | 5 | 4 | 5 | 18 |
-| Diwali sweets | 4 | 5 | 4 | 5 | 18 |
+### 2. Recharged
 
-## Selected trend: Diwali outfit ideas
+**Format:** A refreshing, reset-focused content style.
 
-I selected Diwali outfit ideas because it is the highest-ranked of these three trends in the reported seven-day view data, and it naturally connects to a common money decision for young earners: how to enjoy festive shopping without straining their budget. The content stays practical and low-risk. It does not shame people for buying clothes or make assumptions about anyone’s finances.
+**Pennywell application:** Show a person reviewing their finances and restarting their savings habit.
 
-## Additional money-context source
+**Money connection:** Encourage viewers to restart saving without feeling overwhelmed.
 
-A Financial Express article published three days before this assignment discusses hidden costs that can make festive-sale “no-cost EMI” and cashback offers more expensive than they appear. It supports the relevance of reminding viewers to check fees and total payable amounts when considering instalments. This is supporting context, not the trend metric.
-Link: https://www.financialexpress.com/money/no-cost-emi-and-cashback-the-hidden-charges-that-can-make-your-festive-shopping-costlier-4370375/
+### 3. Toggle On
 
-## Evidence limitations
+**Format:** A simple on/off toggle visual.
 
-The trend figures are from a third-party social trend tracker. They are useful directional evidence but should not be described as official Instagram-only metrics. The reel therefore says “trending in India” rather than claiming a platform-specific view count.
+**Pennywell application:** Show a financial-safety toggle switching from OFF to ON.
+
+**Money connection:** Encourage viewers to make emergency savings a regular habit.
+
+## Trend source
+
+Source: Later – Instagram Reels Trends
+
+https://later.com/blog/instagram-reels-trends/
+
+The source provides examples of current Reels formats. These formats are used as creative inspiration; this document does not claim that the exact "Complete it?" phrase is a separately verified viral trend.
+
+## Selected trend and rationale
+
+**Selected direction:** Small Text Zoom combined with the "Complete it?" half-heart visual.
+
+Reasons:
+- Easy to understand quickly.
+- Suitable for a short vertical Reel.
+- Creates curiosity.
+- Connects naturally with the emergency-fund message.
+- Can be produced with simple editing.
+
+## Final creative concept
+
+A half-completed heart gradually becomes complete.
+
+The message is that financial security also develops step by step.
+
+**Key message:** Start by saving one week of essential expenses. Build your emergency fund gradually according to your needs.
